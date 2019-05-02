@@ -1,0 +1,15 @@
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\bin\Debug\gestion_comùmandes.exe
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\bin\Debug\gestion_comùmandes.pdb
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\gestion_comùmandes.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\gestion_comùmandes.exe
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\gestion_comùmandes.pdb
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\Documents and Settings\Administrateur\Bureau\1612 Matin\gestion_comùmandes\gestion_comùmandes\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\Mr Elhaidaoui\3012\gestion_comùmandes\gestion_comùmandes\gestion_comùmandes\obj\Debug\gestion_comùmandes.exe
+F:\Mr Elhaidaoui\3012\gestion_comùmandes\gestion_comùmandes\gestion_comùmandes\obj\Debug\gestion_comùmandes.pdb
